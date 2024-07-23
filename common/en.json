@@ -34,7 +34,7 @@
         "upper_case": "At least 01 upper case letter (A-Z)",
         "lower_case": "At least 01 lower case letter (a-z)",
         "digits": "At least 01 digit (0-9)",
-        "special_characters": "At least 01 special character (!@#$...)",
+        "special_characters": "At least 01 special character (!@#$...).",
         "please_use_6_digit": "Please use 6 digit",
         "unknown": "Something went wrong",
         "try_again": "Try again",
