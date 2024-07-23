@@ -345,5 +345,7 @@
     "group_administration": "Quản trị",
     "notify_copy_link": "Đã sao chép liên kết vào bộ nhớ đệm",
     "error_notice": "Oops! Có cái gì đó không đúng",
-    "restore": "Khôi phục"
+    "restore": "Khôi phục",
+    "sign_up.description": "Đăng kí",
+    "confirm_new_password": "Xác nhận mật khẩu mới"
 }
