@@ -390,5 +390,6 @@
     "more": "More",
     "sign_up.description": "Signup description",
     "confirm_new_password": "Confirm new password",
-    "sign_up.title": "Sign up"
+    "sign_up.title": "Sign up",
+    "sign_up.dynamic": "signup {{name}}"
 }
