@@ -1,5 +1,8 @@
 {
     "hello": "Xin Chào",
     "what": "Cái gì",
-    "name": "Tên"
+    "name": "Tên",
+    "time_ago": {
+        "one_day": "1 ngày trước"
+    }
 }
