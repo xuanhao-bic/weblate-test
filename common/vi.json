@@ -347,5 +347,6 @@
     "error_notice": "Oops! Có cái gì đó không đúng",
     "restore": "Khôi phục",
     "sign_up.description": "Đăng kí",
-    "confirm_new_password": "Xác nhận mật khẩu mới"
+    "confirm_new_password": "Xác nhận mật khẩu mới",
+    "sign_up.dynamic": "Đăng kí {{name}}"
 }
