@@ -3,6 +3,10 @@
     "what": "Cái gì",
     "name": "Tên",
     "time_ago": {
-        "one_day": "1 ngày trước"
+        "one_day": "1 ngày trước",
+        "one_month": "1 tháng trước",
+        "one_week": "1 tuần trước",
+        "one_hour": "1 giờ trước",
+        "one_minute": "1 phút trước"
     }
 }
