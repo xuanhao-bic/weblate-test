@@ -387,5 +387,8 @@
     "community_count_other": "{{count}} communities",
     "group_count_one": "{{count}} group",
     "group_count_other": "{{count}} groups",
-    "more": "More"
+    "more": "More",
+    "sign_up.description": "Signup description",
+    "confirm_new_password": "Confirm new password",
+    "sign_up.title": "Sign up"
 }
