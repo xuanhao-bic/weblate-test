@@ -1,6 +1,6 @@
 {
     "test_client": "Khách hàng EN",
-    "test_server": "Máy chủ EN",
+    "test_server": "Máy chủ",
     "home_page": "Trang chủ",
     "placeholder": {
         "email": "Địa chỉ email",
@@ -18,7 +18,7 @@
             "email": "Email là bắt buộc!",
             "password": "Mật khẩu là bắt buộc!",
             "new_password": "Mật khẩu mới là bắt buộc!",
-            "confirm_password": "Xác nhận mật khẩu là bắt buộc!",
+            "confirm_password": "Xác nhận mật khẩu là bắt buộc",
             "full_name": "Tên là bắt buộc!",
             "username": "Tên người dùng là bắt buộc!"
         },
@@ -29,14 +29,14 @@
             "password": "Ít nhất 8-20 ký tự"
         },
         "miss_match": {
-            "confirm_password": "Mật khẩu không khớp."
+            "confirm_password": "Mật khẩu không trùng khớp."
         },
         "upper_case": "Ít nhất 01 chữ cái viết hoa (A-Z)",
         "lower_case": "Ít nhất 01 chữ cái viết thường (a-z)",
         "digits": "Ít nhất 01 chữ số (0-9)",
         "special_characters": "Ít nhất 01 ký tự đặc biệt (!@#$...).",
         "please_use_6_digit": "Vui lòng sử dụng 6 chữ số",
-        "unknown": "Có lỗi xảy ra",
+        "unknown": "Đã xảy ra sự cố",
         "try_again": "Thử lại",
         "you_do_not_have_permission_to_see_this": "Bạn không có quyền xem điều này",
         "an_error_occured": "Đã xảy ra lỗi. Tải lại trang để thử lại.",
@@ -47,7 +47,7 @@
         "user_name_exists": "Tên người dùng này đã tồn tại. Vui lòng thử tên khác.",
         "email_exists": "Email này đã tồn tại. Vui lòng thử email khác.",
         "drawer": "Đã xảy ra một số lỗi, vui lòng thực hiện các hành động cần thiết và thử lại",
-        "upper_case_username": "Tên người dùng không thể chứa ký tự viết hoa",
+        "upper_case_username": "Tên không thể chứa ký tự viết hoa",
         "special_characters_username": "Tên người dùng không thể chứa ký tự đặc biệt, bao gồm khoảng trắng",
         "start_with_number_username": "Tên người dùng phải bắt đầu bằng một chữ cái",
         "upper_case_fullname": "Tên không thể chứa ký tự viết hoa",
@@ -58,10 +58,10 @@
     },
     "plus_more_with_val": "+{{val, number}} nữa",
     "more_ellipsis": "Thêm...",
-    "next": "Tiếp theo",
+    "next": "Kế tiếp",
     "groups": "Nhóm",
     "communities": "Cộng đồng",
-    "marketplace": "Chợ",
+    "marketplace": "Thương trường",
     "discover": "Khám phá",
     "home": "Trang chủ",
     "article": "Bài viết",
@@ -69,14 +69,14 @@
     "your_groups": "Nhóm của bạn",
     "no_result": "Không có kết quả",
     "drag_and_drop_mask_description": "Thả ảnh, video hoặc tệp tại đây",
-    "upcoming": "Sắp tới",
-    "page_not_found_title": "Không tìm thấy trang",
+    "upcoming": "Sắp ra mắt",
+    "page_not_found_title": "Không tìm thấy trang này",
     "page_not_found_body": "Chúng tôi rất tiếc, trang bạn yêu cầu không thể tìm thấy. Vui lòng quay lại trang chủ.",
     "page_something_wrong": "Có điều gì đó không đúng. Chúng tôi đang sửa chữa nó.",
-    "done": "Hoàn thành",
-    "success": "Thành công",
+    "done": "Hoàn tất",
+    "success": "Success",
     "message": "Tin nhắn",
-    "view_more": "Xem thêm",
+    "view_more": "Xem nhiều hơn",
     "logout": {
         "success": "Đăng xuất thành công!",
         "error": "Lỗi khi đăng xuất."
@@ -87,14 +87,14 @@
     "embed_link": "Nhúng",
     "upload": {
         "add_files": "Thêm tệp",
-        "add_photos": "Thêm ảnh",
+        "add_photos": "Add photos",
         "add_videos": "Thêm video",
         "error": {
             "file_count": "Bạn không thể tải lên quá {{fileCount}} tệp",
-            "file_size": "Bạn không thể tải lên tệp lớn hơn {{fileSize}}.",
+            "file_size": "Bạn không thể tải lên quá {{$1}} tài liệu",
             "file_type": "Định dạng tệp không được hỗ trợ",
             "cannot_upload_file": "Không thể tải lên tệp",
-            "not_supported": "Không được hỗ trợ"
+            "not_supported": "Not supported"
         }
     },
     "add_table": "Thêm bảng",
@@ -105,15 +105,15 @@
             "header-two": "Tiêu đề 2",
             "header-three": "Tiêu đề 3",
             "header-four": "Tiêu đề 4",
-            "ordered-list-item": "Danh sách có số",
-            "unordered-list-item": "Danh sách dấu đầu dòng",
+            "ordered-list-item": "Danh sách đánh số",
+            "unordered-list-item": "Danh sách có dấu đầu dòng",
             "blockquote": "Trích dẫn"
         },
         "inline": {
             "bold": "Đậm",
             "italic": "Nghiêng",
-            "underline": "Gạch chân",
-            "strikethrough": "Gạch ngang"
+            "underline": "Gạch dưới",
+            "strikethrough": "Gạch xuyên qua"
         },
         "align": {
             "left": "Căn trái",
@@ -130,7 +130,7 @@
     },
     "toast": {
         "system_error": "Lỗi hệ thống. Vui lòng thử lại sau.",
-        "upload_success": "Tải lên thành công!"
+        "upload_success": "Tải lên thành công"
     },
     "note": {
         "digit_code": "Nhập mã xác minh 6 chữ số được gửi đến email",
@@ -141,7 +141,7 @@
         "resend_code": "Gửi lại mã",
         "send_code": "Gửi mã",
         "cancel": "Hủy",
-        "submit": "Gửi",
+        "submit": "Nộp",
         "sign_in": "Đăng nhập",
         "close": "Đóng"
     },
@@ -152,11 +152,11 @@
         "forgot_password_section": "Quên mật khẩu",
         "new_password": "Mật khẩu mới",
         "confirm_new_password": "Xác nhận mật khẩu mới",
-        "password_changed": "Mật khẩu đã thay đổi",
+        "password_changed": "Mật khẩu đã được thay đổi.",
         "content": "Nhập email của tài khoản của bạn. Chúng tôi sẽ gửi mã để đặt lại mật khẩu của bạn",
         "email": "Email",
         "email_placeholder": "Email của bạn",
-        "change_password": "Thay đổi mật khẩu",
+        "change_password": "Đổi Mật Khẩu",
         "check_your_mail": "Kiểm tra email của bạn",
         "confirmation": "Chúng tôi đã gửi một mã xác nhận 6 chữ số đến",
         "make_sure_enter": "Hãy chắc chắn rằng bạn nhập mã chính xác.",
@@ -166,11 +166,11 @@
         "resend": "Gửi lại"
     },
     "go_to_new_feed": "Quay lại trang chủ",
-    "back_to_home": "Quay lại trang chủ",
+    "back_to_home": "Về trang chủ",
     "user": {
         "sidebar": {
-            "posts": "Bài đăng",
-            "about": "Về chúng tôi",
+            "posts": "Ảnh",
+            "about": "Giới thiệu",
             "follower": "Người theo dõi",
             "channels": "Kênh",
             "article": "Bài viết",
@@ -190,6 +190,11 @@
             "you_follow": "Bạn theo dõi",
             "edit_profile": "Chỉnh sửa hồ sơ",
             "saved_posts": "Bài viết đã lưu"
+        },
+        "your_content_tab": {
+            "scheduled": "Đã lên lịch",
+            "published": "Đã phát hành",
+            "reported": "Đã báo cáo"
         }
     },
     "settings": {
@@ -205,10 +210,140 @@
         "website": "Trang web",
         "save_changes": "Lưu thay đổi"
     },
-    "search": {
-        "recent_searches": "Tìm kiếm gần đây",
-        "no_recent_searches": "Không có tìm kiếm gần đây",
-        "try_searching": "Thử tìm kiếm",
-        "loading": "Đang tải..."
-    }
+    "search": "Tìm Kiếm",
+    "cancel": "Hủy",
+    "undo": "Khôi phục",
+    "count_sec": "{{count}}",
+    "community": "Cộng đồng",
+    "group": "Nhóm",
+    "emoji": {
+        "static": "Tạo các node",
+        "animated": "Hoạt ảnh"
+    },
+    "clear_all": "Làm sạch tất cả",
+    "expand_sidebar": "Thanh biên mở rộng",
+    "save": "Lưu",
+    "edit": "Chỉnh Sửa",
+    "publish_now": "Phát hành",
+    "resend_verification_email": "Gửi lại email xác nhận",
+    "sign_up": {
+        "title_success": "Trương mục của bạn đã bị xóa thành công.",
+        "sign_up": "Đăng ký",
+        "resend": "Gửi lại",
+        "sign_in_cta": "Bạn co săn san để tạo một tai khoản? Đăng nhập",
+        "verify_your_email_address": "Xác minh tài khoản Email của bạn",
+        "we_have_sent_you_a_verification_email_to": "Chúng tôi đã gửi cho bạn một thư xác minh thông tin đến"
+    },
+    "full_name": "Họ và tên",
+    "remove_all": "Xóa tất cả",
+    "failed_to_upload": "Không thể tải lên",
+    "retry": "Thử lại",
+    "retrying": "Đang thử lại ...",
+    "canceled": "Đã hủy",
+    "img": {
+        "zoom": "Zoom x2",
+        "rotation": "Không xoay",
+        "title": "Cắt ảnh"
+    },
+    "quit": "Thoát",
+    "start": "Bắt đầu",
+    "pass": "Đạt",
+    "time": {
+        "today": "Hôm nay",
+        "yesterday": "Hôm qua"
+    },
+    "copied_to_clipboard": "Đã sao chép vào khay nhớ tạm",
+    "not_now": "Lúc khác",
+    "dialog": {
+        "update": "Cập nhật",
+        "updating": "Cập nhật",
+        "cancel": "Huỷ",
+        "create": "Tạo",
+        "creating": "Đang tạo",
+        "edit": "Chỉnh Sửa",
+        "editing": "Chỉnh sửa"
+    },
+    "report_reason": {
+        "content": "Nội dung",
+        "comment": "ghi chú",
+        "message": "tin nhắn"
+    },
+    "your_profile": "Thông tin cá nhân của bạn",
+    "notifications": "Thông báo",
+    "community_count_one": "communauté",
+    "community_count_other": "Cộng đồng",
+    "more": "Thêm",
+    "verification_email": {
+        "title": "Xác minh tài khoản Email của bạn",
+        "title_button": "Gửi lại email xác minh",
+        "we_have_sent_you": "Chúng tôi đã gửi cho bạn một thư xác minh thông tin đến"
+    },
+    "verification_send_email": {
+        "paragraph": "Trước khi tiếp tục, hãy kiểm tra email của bạn cho một link xác nhận."
+    },
+    "confirm": "Xác nhận",
+    "expansion": {
+        "help_center": "trung tâm Trợ giúp",
+        "privacy_and_term": "Điều khoản và Quyền riêng tư",
+        "business_services": "Dịch vụ kinh doanh",
+        "cryptocurrency": "Ví tiền điện tử",
+        "more": "Thêm",
+        "ver": "phiên bản ${version}"
+    },
+    "your_content_tab": {
+        "scheduled": "Đã lên lịch",
+        "published": "Đã phát hành",
+        "reported": "Đã báo cáo"
+    },
+    "continue": "Tiếp tục",
+    "publish": "Phát hành",
+    "no_results_found": "Không tìm thấy kết quả",
+    "no_data": "Không có Dữ liệu",
+    "submit": "Nộp",
+    "remove": "Gỡ, Xóa",
+    "delete": "Xóa",
+    "your_email_is_verified_successfully": "Email của bạn đã được verify thành công!",
+    "welcome": "Chào mừng bạn",
+    "email": "Email",
+    "user_name": "Tên truy cập",
+    "password": "Mật khẩu",
+    "page": "Bài viết",
+    "preview": "Xem trước",
+    "not_found": {
+        "content": "Bạn cũng có thể làm mới trang hoặc thử lại sau.",
+        "refresh": "Làm mới"
+    },
+    "dialog_discard": {
+        "title": "Hủy bỏ thay đổi",
+        "content": "Bạn có chắc bạn muốn bỏ những thay đổi của bạn không?",
+        "cancel": "Huỷ",
+        "ok": "Cài đặt lại"
+    },
+    "apply": "Áp dụng",
+    "untitled": "Chưa đặt tên",
+    "quiz": "Quiz",
+    "published": "Đã phát hành",
+    "contents": "Chi tiết",
+    "posts": "Ảnh",
+    "articles": "Bài viết",
+    "show_less": "Ẩn đi",
+    "more_detail": "More details",
+    "exit": "Thoát",
+    "invite": "Mời",
+    "keep_editing": "Tiếp tục chỉnh sửa",
+    "post": "Bưu điện",
+    "series": "Chuỗi",
+    "time_ago": {
+        "one_month": "Tháng trước",
+        "one_week": "Tuần trước",
+        "one_day": "%1$d ngày trước",
+        "one_hour": "%1 giờ trước",
+        "one_minute": "%1 phút trước",
+        "now": "bây giờ"
+    },
+    "admin_panel": "Bảng quản trị",
+    "group_administration": "Quản trị",
+    "notify_copy_link": "Đã sao chép liên kết vào bộ nhớ đệm",
+    "error_notice": "Oops! Có cái gì đó không đúng",
+    "restore": "Khôi phục"
 }
