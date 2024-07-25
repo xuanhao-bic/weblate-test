@@ -4,5 +4,6 @@
         "hello": "Login hello"
     },
     "hello-total-users": "Hello {{total}} users",
-    "hello_world": "Hello world"
+    "hello_world": "Hello world",
+    "test": "Test 1"
 }
