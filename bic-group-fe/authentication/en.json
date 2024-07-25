@@ -2,5 +2,6 @@
     "hello": "Hello",
     "login": {
         "hello": "Login hello"
-    }
+    },
+    "hello-total-users": "Hello {{total}} users"
 }
