@@ -3,5 +3,6 @@
     "login": {
         "hello": "Xin chào"
     },
-    "hello-total-users": "Xin chào  {{total}} thành viên."
+    "hello-total-users": "Xin chào  {{total}} thành viên.",
+    "hello_world": "Xin chào thế giới"
 }
