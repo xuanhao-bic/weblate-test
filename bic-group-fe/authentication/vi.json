@@ -1,4 +1,7 @@
 {
     "Login hello": "Xin chào login",
-    "hello": "Xin chào"
+    "hello": "Xin chào",
+    "login": {
+        "hello": "Xin chào"
+    }
 }
