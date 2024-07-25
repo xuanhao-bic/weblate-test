@@ -1,9 +1,10 @@
 {
-    "hello": "Hello",
+    "hello": "Hello 1",
     "login": {
         "hello": "Login hello"
     },
     "hello-total-users": "Hello {{total}} users",
     "hello_world": "Hello world",
-    "test": "Test 1"
+    "test": "Test 1",
+    "hello_2": "Hello 2"
 }
