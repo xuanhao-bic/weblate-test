@@ -3,5 +3,6 @@
     "login": {
         "hello": "Login hello"
     },
-    "hello-total-users": "Hello {{total}} users"
+    "hello-total-users": "Hello {{total}} users",
+    "hello_world": "Hello world"
 }
