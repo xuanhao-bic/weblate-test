@@ -1,9 +1,5 @@
 {
     "login": {
-        "hello": "Login hello"
-    },
-    "hello-total-users": "Hello {{total}} users",
-    "hello_world": "Hello world",
-    "test": "Test 1",
-    "hello_2": "Hello 2"
+        "title": "Login hello"
+    }
 }
