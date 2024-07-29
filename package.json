@@ -2,9 +2,9 @@
   "private": true,
   "scripts": {
     "changeset": "changeset",
-    "version-packages": "changeset version",
+    "version": "changeset version",
     "pre-release": "node ./scripts/pre-release.mjs",
-    "release": "npm run pre-release && changeset publish",
+    "release": "pnpm pre-release && changeset publish",
     "clean": "turbo clean && rm -rf node_modules"
   },
   "devDependencies": {
