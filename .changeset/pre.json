@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "@xuanhaobic/i18n-bic-chat-fe": "0.1.1",
+    "@xuanhaobic/i18n-bic-group-fe": "0.1.1"
+  },
+  "changesets": []
+}
