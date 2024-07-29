@@ -1,7 +1,7 @@
 {
     "login": {
         "title": "Xin chào mừng đến với trang login.",
-        "description" : "Đây là trang login",
+        "description": "Đây là trang login",
         "username": "Tên đăng nhập"
     }
 }
