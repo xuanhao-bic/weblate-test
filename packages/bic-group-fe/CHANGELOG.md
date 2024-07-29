@@ -1,5 +1,11 @@
 # @xuanhaobic/i18n-bic-group-fe
 
+## 0.1.1
+
+### Patch Changes
+
+- [`15fc8910084960e2c1a2976d839195f342265f4e`](https://github.com/xuanhao-bic/weblate-test/commit/15fc8910084960e2c1a2976d839195f342265f4e) Thanks [@xuanhao-bic](https://github.com/xuanhao-bic)! - Add new translate
+
 ## 0.1.0
 
 ### Minor Changes
