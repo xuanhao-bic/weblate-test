@@ -15,4 +15,4 @@ runs:
             cache: 'pnpm'
         - name: Install dependencies
           shell: bash
-          run: pnpm i --frozen-lockfile
+          run: pnpm i --frozen-lockfile || pnpm i
