@@ -12,8 +12,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": [],
-  "snapshot": {
-    "prereleaseTemplate": "{tag}-{commit}-{datetime}"
-  }
+  "ignore": []
 }
