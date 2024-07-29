@@ -82,3 +82,5 @@ pnpm-error.log*
 junit.xml
 .nyc_output
 coverage_result
+
+.turbo
