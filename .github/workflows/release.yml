@@ -27,8 +27,8 @@ jobs:
               id: changesets
               uses: changesets/action@v1
               with:
-                  publish: pnpm release
                   version: pnpm version-packages
+                  publish: pnpm release
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
                   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
