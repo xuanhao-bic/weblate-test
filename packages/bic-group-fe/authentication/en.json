@@ -1,5 +1,6 @@
 {
     "login": {
-        "title": "Welcome to login page."
+        "title": "Welcome to login page.",
+        "description" : "This is login page"
     }
 }
