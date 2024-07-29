@@ -8,7 +8,7 @@
   ],
   "commit": false,
   "fixed": [["@xuanhaobic/*"]],
-  "linked": [["@xuanhaobic/*"]],
+  "linked": [],
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
