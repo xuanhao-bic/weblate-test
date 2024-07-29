@@ -1,5 +1,11 @@
 # @xuanhaobic/i18n-bic-chat-fe
 
+## 0.1.2
+
+### Patch Changes
+
+- [`29261eabc5656ae2a653f6f3dc155f6632b5afe7`](https://github.com/xuanhao-bic/weblate-test/commit/29261eabc5656ae2a653f6f3dc155f6632b5afe7) Thanks [@xuanhao-bic](https://github.com/xuanhao-bic)! - Test
+
 ## 0.1.1
 
 ### Patch Changes
