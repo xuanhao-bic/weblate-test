@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "changeset": "changeset",
-    "version": "changeset version",
+    "version-packages": "changeset version",
     "pre-release": "node ./scripts/pre-release.mjs",
     "release": "pnpm pre-release && changeset publish",
     "clean": "turbo clean && rm -rf node_modules"
