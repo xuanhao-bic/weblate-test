@@ -2,9 +2,9 @@ name: Version or Publish
 
 on:
     push:
-        paths:
-            - '.changeset/**'
-            - 'packages/**'
+#        paths:
+#            - '.changeset/**'
+#            - 'packages/**'
         branches:
             - main
 concurrency:
