@@ -4,5 +4,6 @@
     },
     "hello-total-users": "Xin chào {{total}} thành viên.",
     "hello_world": "Xin chào thế giới",
-    "test": "Kiểm tra 1"
+    "test": "Kiểm tra 1",
+    "hello_2": "Hello 2"
 }
