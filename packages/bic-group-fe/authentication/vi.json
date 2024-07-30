@@ -3,5 +3,8 @@
         "title": "Xin chào mừng đến trang login 1.",
         "description": "Đây là trang login",
         "username": "Tên đăng nhập"
+    },
+    "sign_up": {
+        "title": "Xin chào mừng đến với trang đăng kí."
     }
 }
