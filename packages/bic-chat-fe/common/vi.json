@@ -5799,5 +5799,6 @@
     "leave_team_modal.cancel": "Huỷ bỏ",
     "leave_team_modal.leave": "Rời khỏi",
     "leave_the_community_chat": "Rời Chat cộng đồng",
-    "user.settings.languages.promote1": "Chọn ngôn ngữ mà Mattermost hiển thị trong giao diện người dùng."
+    "user.settings.languages.promote1": "Chọn ngôn ngữ mà Mattermost hiển thị trong giao diện người dùng.",
+    "user.settings.languages.promote2": "Bạn có muốn giúp đỡ dịch thuật không? Hãy tham gia <link>Máy chủ dịch Mattermost</link> để đóng góp."
 }
