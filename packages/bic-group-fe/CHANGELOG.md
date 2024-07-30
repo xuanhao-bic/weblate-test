@@ -1,5 +1,11 @@
 # @xuanhaobic/i18n-bic-group-fe
 
+## 0.1.3
+
+### Patch Changes
+
+- [#4](https://github.com/xuanhao-bic/weblate-test/pull/4) [`f2d9f3cce78ea701996d00934c9836cf1f29aa56`](https://github.com/xuanhao-bic/weblate-test/commit/f2d9f3cce78ea701996d00934c9836cf1f29aa56) Thanks [@weblate](https://github.com/weblate)! - Translations update from Hosted Weblate
+
 ## 0.1.2
 
 ### Patch Changes
